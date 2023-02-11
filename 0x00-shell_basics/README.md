@@ -1,1 +1,1 @@
-cerating multiple directories in the current dir
+creating new directories
