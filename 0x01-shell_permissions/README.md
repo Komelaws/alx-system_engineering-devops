@@ -1,1 +1,1 @@
-duplicating permissions
+Driectories
