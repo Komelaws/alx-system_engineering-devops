@@ -1,1 +1,1 @@
-content list of my current directory
+change to home directory
