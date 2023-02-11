@@ -1,1 +1,1 @@
-Task_6- Welcome to the new dir
+Task-7. Betty in my first directory
