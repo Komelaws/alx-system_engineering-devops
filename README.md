@@ -1,1 +1,1 @@
-Life is a series of commas, not periods
+magic school data file
