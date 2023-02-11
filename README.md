@@ -1,1 +1,1 @@
-16. Clean Emacs
+Life is a series of commas, not periods
