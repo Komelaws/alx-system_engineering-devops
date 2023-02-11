@@ -1,1 +1,1 @@
-listing multiple directories in long format
+checking file type
