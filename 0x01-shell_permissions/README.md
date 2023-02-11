@@ -1,1 +1,1 @@
-detailed listing
+duplicating permissions
