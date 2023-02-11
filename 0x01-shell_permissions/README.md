@@ -1,1 +1,1 @@
-zero zero permission and all permission
+detailed listing
