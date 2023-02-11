@@ -1,1 +1,1 @@
-permission to multiple users
+granting multiple permissions
