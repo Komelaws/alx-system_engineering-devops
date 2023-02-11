@@ -1,1 +1,1 @@
-create an empty file called hello
+give permission to the file owner
