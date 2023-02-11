@@ -1,1 +1,1 @@
-magic school data file
+switches the current user to the user betty
