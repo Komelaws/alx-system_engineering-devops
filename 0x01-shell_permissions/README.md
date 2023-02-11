@@ -1,1 +1,1 @@
-permission to everybody
+owner and group owners no permission
