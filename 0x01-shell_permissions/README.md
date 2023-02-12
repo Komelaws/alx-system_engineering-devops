@@ -1,1 +1,1 @@
-12-directories permissions
+adding execute permissions to all sub directories
