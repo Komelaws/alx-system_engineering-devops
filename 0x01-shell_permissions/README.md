@@ -1,1 +1,1 @@
-adding execute permissions to all sub directories
+Changing of group owner
