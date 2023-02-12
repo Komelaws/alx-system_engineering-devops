@@ -1,1 +1,1 @@
-space action
+multiple permissions together
