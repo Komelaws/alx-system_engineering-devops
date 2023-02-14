@@ -1,1 +1,1 @@
-all users and home dir
+deep search
