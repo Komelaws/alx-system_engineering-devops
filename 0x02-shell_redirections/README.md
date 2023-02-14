@@ -1,1 +1,1 @@
-delete all the ordinary javascript files
+directories census
