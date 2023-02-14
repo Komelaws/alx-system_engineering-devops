@@ -1,1 +1,1 @@
-all the bin pattern
+three line pattern
