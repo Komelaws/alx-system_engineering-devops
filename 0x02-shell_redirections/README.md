@@ -1,1 +1,1 @@
-reversed programms
+all users and home dir
