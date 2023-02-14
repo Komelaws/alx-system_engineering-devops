@@ -1,1 +1,1 @@
-creating an alias
+create a script that prints hello uset
