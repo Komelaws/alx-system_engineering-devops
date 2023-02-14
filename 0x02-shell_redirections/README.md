@@ -1,1 +1,1 @@
-I hate bins
+display lines that begins with a letter
