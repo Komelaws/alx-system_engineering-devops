@@ -1,1 +1,1 @@
-input to output
+duplicate of the last line
