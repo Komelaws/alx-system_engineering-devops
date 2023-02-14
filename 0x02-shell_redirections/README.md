@@ -1,1 +1,1 @@
-duplicate of the last line
+delete all the ordinary javascript files
