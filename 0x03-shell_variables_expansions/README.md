@@ -1,1 +1,1 @@
-create a script that prints hello uset
+the path
