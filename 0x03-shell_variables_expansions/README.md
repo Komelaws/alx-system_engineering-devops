@@ -1,1 +1,1 @@
-true knowledge
+result of divide
