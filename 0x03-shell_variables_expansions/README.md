@@ -1,1 +1,1 @@
-a new local variable
+creating a global variablae
