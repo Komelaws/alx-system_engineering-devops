@@ -1,1 +1,1 @@
-base 10 to base 16
+print everyother line
