@@ -1,1 +1,1 @@
-binary to decimal conversion script
+all possible combinations of two letters
