@@ -1,1 +1,1 @@
-creating a global variablae
+true knowledge
