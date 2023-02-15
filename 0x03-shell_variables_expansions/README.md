@@ -1,1 +1,1 @@
-global variables
+listing out all the local variables
