@@ -1,1 +1,1 @@
-print everyother line
+variable adding
