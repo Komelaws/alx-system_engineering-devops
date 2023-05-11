@@ -5,3 +5,4 @@ A Shell script that prints out the content of a file in long format
 A Shell script that prints the content of a file in long format including the hidden files (that begins with . and ..)
 A Script to current directories content in long formeat, with user and group ID's numerically and all hidden files.
 A Script that creates a directory in the /tmp/ directory
+A Script to move a file from a directory to another dirctory
