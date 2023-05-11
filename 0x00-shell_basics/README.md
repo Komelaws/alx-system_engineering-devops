@@ -7,3 +7,4 @@ A Script to current directories content in long formeat, with user and group ID'
 A Script that creates a directory in the /tmp/ directory
 A Script to move a file from a directory to another dirctory
 A Script that deletes a file from a sub-directory of a directory
+A Script that deletes the first directory that i created
