@@ -6,3 +6,4 @@ A Shell script that prints the content of a file in long format including the hi
 A Script to current directories content in long formeat, with user and group ID's numerically and all hidden files.
 A Script that creates a directory in the /tmp/ directory
 A Script to move a file from a directory to another dirctory
+A Script that deletes a file from a sub-directory of a directory
